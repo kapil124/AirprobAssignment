@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/airprobAssignment/static/css/main.06fe013d.chunk.css",
+    "main.js": "/airprobAssignment/static/js/main.9e88bb27.chunk.js",
+    "main.js.map": "/airprobAssignment/static/js/main.9e88bb27.chunk.js.map",
+    "runtime-main.js": "/airprobAssignment/static/js/runtime-main.efa90c26.js",
+    "runtime-main.js.map": "/airprobAssignment/static/js/runtime-main.efa90c26.js.map",
+    "static/css/2.383c0125.chunk.css": "/airprobAssignment/static/css/2.383c0125.chunk.css",
+    "static/js/2.dd17b62e.chunk.js": "/airprobAssignment/static/js/2.dd17b62e.chunk.js",
+    "static/js/2.dd17b62e.chunk.js.map": "/airprobAssignment/static/js/2.dd17b62e.chunk.js.map",
+    "index.html": "/airprobAssignment/index.html",
+    "static/css/2.383c0125.chunk.css.map": "/airprobAssignment/static/css/2.383c0125.chunk.css.map",
+    "static/css/main.06fe013d.chunk.css.map": "/airprobAssignment/static/css/main.06fe013d.chunk.css.map",
+    "static/js/2.dd17b62e.chunk.js.LICENSE.txt": "/airprobAssignment/static/js/2.dd17b62e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.efa90c26.js",
+    "static/css/2.383c0125.chunk.css",
+    "static/js/2.dd17b62e.chunk.js",
+    "static/css/main.06fe013d.chunk.css",
+    "static/js/main.9e88bb27.chunk.js"
+  ]
+}
